@@ -1,6 +1,7 @@
 # Kérdések
 ## **_CSS_**
 ## Mi a css?
+html-t lehet vele formázni, külső stíluslap
 ### 
 ## Hogyan tudunk beágyazni egy css-t egy html fájlba?
 ###
